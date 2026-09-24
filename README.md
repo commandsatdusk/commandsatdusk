@@ -7,7 +7,7 @@
    
 ***
    
-<p align="center">${\textsf{\color{#8aa0d4}  agender and aromantic }}$
+<p align="center">${\textsf{\color{#8aa0d4}  agender and aromantic, bodily 15 }}$
 <p align="center">${\textsf{\color{#968ad4}  "[when your bf sacrifices you] whispers: listen to ur alpha" }}$
 
 <p align="center">${\textsf{\color{#aa8ad4}  Heavy DNI criteria. BLOCKS FREELY! }}$
