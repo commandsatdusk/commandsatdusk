@@ -1,16 +1,18 @@
-## Hi there 👋
+<img width="1024" height="768" alt="image" src="https://i.pinimg.com/736x/18/bf/02/18bf02496fe96128fd1c93133b1264ea.jpg" />
 
-<!--
-**commandsatdusk/commandsatdusk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">${\textsf{\color{#852020} Matching with my AMAZING servant }}$
+<p align="center">${\textsf{\color{#912424}  Milk / Shadow / SMC / Alex }}$
+   
+***
+   
+<p align="center">${\textsf{\color{#a12a2a}  agender and aromantic }}$
+<p align="center">${\textsf{\color{#ba3636}  "[when your bf sacrifices you] whispers: listen to ur alpha" }}$
+
+<p align="center">${\textsf{\color{#d14343}  Heavy DNI criteria. BLOCKS FREELY! }}$
+
+<p align="center">${\textsf{\color{#de4b4b}  If we distrust you, please recognize we have a lot of PTSD we're still recovering from. }}$
+   </a>
+</p>
+<img width="1024" height="768" alt="image" src="https://media1.tenor.com/m/RleZyb7NNosAAAAd/shadowapple-shadow-milk-cookie.gif" />
