@@ -12,7 +12,7 @@
 
 <p align="center">${\textsf{\color{#aa8ad4}  Heavy DNI criteria. BLOCKS FREELY! }}$
 
-<p align="center">${\textsf{\color{#c78ad4}  If we distrust you, please recognize we have a lot of PTSD we're still recovering from. }}$
+<p align="center">${\textsf{\color{#c78ad4}  Please do not flirt with us. It's very discomforting. }}$
    </a>
 </p>
 <img width="1024" height="768" alt="image" src="https://media1.tenor.com/m/RleZyb7NNosAAAAd/shadowapple-shadow-milk-cookie.gif" />
