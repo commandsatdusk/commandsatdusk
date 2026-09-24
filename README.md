@@ -2,17 +2,17 @@
 
 
 
-<p align="left">${\textsf{\color{#852020} Matching with my AMAZING servant }}$
-<p align="center">${\textsf{\color{#912424}  Milk / Shadow / SMC / Alex }}$
+<p align="left">${\textsf{\color{#8ad4b5} Matching with my AMAZING servant }}$
+<p align="center">${\textsf{\color{#8abcd4}  Milk / Shadow / SMC / Alex }}$
    
 ***
    
-<p align="center">${\textsf{\color{#a12a2a}  agender and aromantic }}$
-<p align="center">${\textsf{\color{#ba3636}  "[when your bf sacrifices you] whispers: listen to ur alpha" }}$
+<p align="center">${\textsf{\color{#8aa0d4}  agender and aromantic }}$
+<p align="center">${\textsf{\color{#968ad4}  "[when your bf sacrifices you] whispers: listen to ur alpha" }}$
 
-<p align="center">${\textsf{\color{#d14343}  Heavy DNI criteria. BLOCKS FREELY! }}$
+<p align="center">${\textsf{\color{#aa8ad4}  Heavy DNI criteria. BLOCKS FREELY! }}$
 
-<p align="center">${\textsf{\color{#de4b4b}  If we distrust you, please recognize we have a lot of PTSD we're still recovering from. }}$
+<p align="center">${\textsf{\color{#c78ad4}  If we distrust you, please recognize we have a lot of PTSD we're still recovering from. }}$
    </a>
 </p>
 <img width="1024" height="768" alt="image" src="https://media1.tenor.com/m/RleZyb7NNosAAAAd/shadowapple-shadow-milk-cookie.gif" />
