@@ -1,3 +1,4 @@
+<p
 align="center">${\textsf{\color{#7d66e3}  Auguste / Alex / Thomas }}$
    
 ***
