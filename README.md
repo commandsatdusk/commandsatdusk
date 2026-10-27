@@ -1,5 +1,5 @@
 <p
-align="center">${\textsf{\color{#7d66e3}  Auguste / Alex / Thomas }}$
+align="center">${\textsf{\color{#7d66e3}  pup / little wolf / tele }}$
    
 ***
    
