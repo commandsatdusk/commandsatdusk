@@ -1,5 +1,5 @@
 <p
-align="center">${\textsf{\color{#7d66e3}  pup / little wolf / tele }}$
+align="center">${\textsf{\color{#7d66e3}  telemachus / pup / little wolf / tele / Achilles / orpheus  }}$
    
 ***
    
